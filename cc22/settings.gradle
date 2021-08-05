@@ -1,0 +1,2 @@
+rootProject.name = "cc2"
+include ':app'

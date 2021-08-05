@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="about">This app is made by Saranya Gopakumar, Shilpa S Chinchole, Cherukuru Mounika, Daisia Davis E, Shijith K S. This app took over a month to
+        make, considering the fact it was made during lockdown, with low quality of internet and other issues. </string>
+    <string name="report"><![CDATA[<p>A currency converter is software code that is designed to convert one currency into another in order to check its corresponding value.
+        The code is generally a part of a web site or it forms a mobile app and it is based on current market or bank exchange rates.</p>
+        <p>In order to convert one currency
+        into another, a user enters an amount of money (e.g. "1000")and chooses the currency he/she wishes to check the monetary value of (e.g. "United StatesDollar").
+        After that, the user selects one, or sometimes several other currencies, he/she would like to see the result in. The application software then calculates and
+        displays the corresponding amount of money.</p>
+        <p>Currency converters aim to maintain real-time information on current market or bank exchange rates, so that the
+        calculated result changes whenever the value of either of the component currencies does. They do so by connecting to a database of current
+        currency exchange rates.</p>
+
+        Currency converters usually display a value that is not biased towards buying or selling. This is useful when:
+        <ul>
+            <li>Estimating the value of goods or services</li><br>
+            <li>Basic accounting and invoicing</li><br>
+            <li>Preparing financial plans and reports</li><br>
+            <li>The currency conversion software calculates the rates as decimal point numbers with typically 4 decimals after the comma. Some may calculate the
+                conversion rates with more decimals internally but only 4 are displayed. This is related to precision, software internalization and how the
+                international markets work, where most conversions have 4decimal places, although some currency pairs also have 5.
+                Most currency converters use upto 4.</li>
+        </ul>
+
+        <h2>Aim</h2>
+        <p>The main aim of this application is to utilize JAVA programming language for the implementation of real time currency conversion.
+            The application is to be developed to represent dynamic functionalities as that of online currency converters. The application can perform for
+            simultaneous currency conversion by utilizing online information source. This application also provides a Graphical User Interface for currency
+            conversion and commandline interface for data stream</p>
+        <h3>BENEFITS OF CURRENCY CONVERTER APP</h3>
+        <ul>
+            <li>The Currency converter app is specifically programmed to do the entire task of monetary calculations for the user and because these apps are
+                synchronized with the internet,they get the updated rate of exchange at all times, leaving no room for discrepancies. No currency exchange or
+                transaction is ever possible without a good currency converter, at least to the best of our knowledge.</li><br>
+            <li>Currency converter Apps come in handy, are simple, are accurate and are fast to be employed in any situation as the user just has it either
+                directly on his smart phone or computer system, providing him/her quick and real time access to doing business within and outside the shores of
+                the country without fear of making human error that is a characteristic of most these transactions.</li><br>
+            <li>Currency converter Apps are mostly free and come ad free too. They are ingrained with the unique feature that links all of them to a currency page
+                online. Which proof reads them with the needed database that allows you discover in-depth the knowledge of individual currencies. Most of these
+                converter Apps follows every currency being traded and offers a multiple-currency display to help you keep track of relative trends simultaneously
+                and keeping you updated as well.</li><br>
+            <li>Currency converter Apps are able to handle a large number of popular currencies, it also has in built in it, several options that would make it
+                appeal to a large number of business people. It has the ability to be operated in offline mode – to save on the bandwidth and data time. In addition,
+                it can track changes in the international markets and display it as a graph, helping to predict future trends and giving analytics. Paired with a
+                constant update of currency news, this if you will agree with me is a major benefit of Currency Converters that exist as apps.</li><br>
+            <li>Currency converter Apps can be depended on for accurate and fast information. It is dependable to provide information on real time. These apps
+                have and easy to navigate,pleasing and easy to use interface, presents the latest data on world currencies and precious metals. Users can even have
+                all such data tracked in real-time.</li>
+        </ul>
+
+
+
+    ]]></string>
+</resources>
