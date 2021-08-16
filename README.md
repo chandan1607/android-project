@@ -1,1 +1,1 @@
-# android-project
+# android-mini-project
